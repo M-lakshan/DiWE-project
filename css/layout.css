@@ -1,0 +1,45 @@
+#main{
+    margin: 0px;
+    width: 100%;
+    
+}
+
+#header{
+    height: 70px;
+    background-color: #111;
+}
+
+#logged{
+    height: 40px;
+}
+
+#navi{
+    height: 40px;
+}
+
+#content{
+    min-height: 350px;
+   
+}
+#footer{
+    height: 100px;
+}
+
+.hea1{
+    font-weight: bold;
+    color: #FFF;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 30px;
+}
+
+.foo{
+    font-style: italic; font-size:11px; text-align: center; padding-top: 30px;
+    
+}
+
+.cen{
+    text-align: center;
+}
+
+.logalign{ float: right; padding-right: 20px; padding-top: 5px;}
